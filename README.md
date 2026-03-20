@@ -105,5 +105,5 @@ The goal is to help businesses make **data-driven decisions** for marketing, sal
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Yuvraj7021/customer-shopping-analysis.git
+git clone https://github.com/Yuvraj7021/customer_behavior_analysis.git
 cd customer-shopping-analysis
